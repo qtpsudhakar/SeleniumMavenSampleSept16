@@ -13,6 +13,7 @@ public class Demo extends SampleMath{
 		
 		System.out.println(new Demo().x);
 		
+		System.out.println("thi is my rnd branch");
 	}
 
 }
