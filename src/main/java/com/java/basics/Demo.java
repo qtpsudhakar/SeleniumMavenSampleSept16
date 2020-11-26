@@ -14,6 +14,7 @@ public class Demo extends SampleMath{
 		System.out.println(new Demo().x);
 		
 		System.out.println("thi is my rnd branch");
+		System.out.println("Update from remote");
 	}
 
 }
