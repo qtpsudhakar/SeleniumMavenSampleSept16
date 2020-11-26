@@ -1,0 +1,16 @@
+<suite name="reg">
+
+	<groups>
+		<run>
+			<include name="smoke" />
+		</run>
+	</groups>
+	<test name="c2">
+		<classes>
+
+			<class name="com.tng.basics.Test2_AddEmp" />
+			<class name="com.tng.basics.Test3_AddEditDeleteEmp" />
+			<class name="com.tng.basics.Test1" />
+		</classes>
+	</test>
+</suite>
